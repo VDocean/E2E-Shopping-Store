@@ -1,0 +1,22 @@
+{
+  "name": "e2e-shopping-store",
+  "version": "1.0.0",
+  "description": "Este projeto usa o site : https://www.saucedemo.com/ com fins de demonstrar um teste    \r E2E com login, carrinho de compras, cadastro de endereço, ilustrando todo o percurso  \r de usuário dentro uma loja online.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VDocean/E2E-Shopping-Store.git"
+  },
+  "author": "vitnasc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VDocean/E2E-Shopping-Store/issues"
+  },
+  "homepage": "https://github.com/VDocean/E2E-Shopping-Store#readme",
+  "devDependencies": {
+    "cypress": "^14.2.0"
+  }
+}
